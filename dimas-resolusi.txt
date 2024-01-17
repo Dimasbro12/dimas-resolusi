@@ -3,5 +3,5 @@ DIMAS RESOLUSI
   - Membuat platform untuk pengelolaan video
   - Join forum diskusi
   - Membuat website
-  - Bikin project besar
+  - Membuat konten
   
