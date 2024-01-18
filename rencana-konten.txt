@@ -1,5 +1,7 @@
 Rencana Konten Dimas
 
 -JavaScript
++ ES6
++ Framework Javascript
 -PHP
 -Tensorflow
