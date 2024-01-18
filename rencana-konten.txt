@@ -4,6 +4,7 @@ Rencana Konten Dimas
 + ES6
 + Framework Javascript
  > Vue
+ >React
 - Struktur data
 -PHP
  > Laravel
