@@ -3,6 +3,9 @@ Rencana Konten Dimas
 -JavaScript
 + ES6
 + Framework Javascript
+ > Vue
+ >React
 - Struktur data
 -PHP
+ > Laravel
 -Tensorflow
